@@ -1,4 +1,2 @@
 # CSIT-121
-All of my HTML work for Fall 2025
-# Practices
-1. demo.html
+All of my HTML work for CSIT 121 Fall 2025
